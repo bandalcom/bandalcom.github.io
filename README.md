@@ -1,4 +1,4 @@
-# 🐾[BANDALCOM 🐾ARCHIVE]🐻🩸💀(https://bandalcom.github.io)  
+# 🐾[BANDALCOM 🐾ARCHIVE](https://bandalcom.github.io)🐻🩸💀  
 👻**IT Blog**👻  
 Interests:  
 AI🧠 - ML/DL  
