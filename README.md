@@ -1,1 +1,0 @@
-# bandalcom.github.io
