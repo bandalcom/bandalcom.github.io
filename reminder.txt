@@ -1,0 +1,5 @@
+particles.min.js를
+bandalcom.github.io/assets/js에 추가
+https://github.com/murraco/jekyll-theme-minimal-resume
+https://github.com/VincentGarreau/particles.js/
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hn03238&logNo=221836163829

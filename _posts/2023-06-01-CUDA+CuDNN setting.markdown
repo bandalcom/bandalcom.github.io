@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "CUDA+CuDNN+TF_Setting"
-date:   2023-05-23 22:22:00 +0900
-categories: ML/DL LAB CUDA
----
+date:   2023-06-01 11:23:00 +0900
+categories: AI LAB ENV
+---  
+##  &nbsp;  
+  
 <!--
 &nbsp; - space letter
 img path = ~/bandalcom.github.io/posts_img/CUDA+CuDNN+TF_Setting/
@@ -11,10 +13,23 @@ img scale
 small - width="40%" height="30%"
 large - width="60%" height="40%"
 -->
+
+-----
+
+&nbsp;  
+  
+### Intro  
+  
 The professor requests the installation of the CUDA environment on the server computer.  
 
+&nbsp;  
+  
+-----
 
-***** 
+&nbsp;  
+  
+### Table  
+  
 1. Visual Studio  
 
 2. Anaconda  
@@ -26,9 +41,10 @@ The professor requests the installation of the CUDA environment on the server co
 5. TENSORFLOW  
 
 6. PyTorch  
-  
 
-*****
+&nbsp;  
+  
+-----
 
 
 # 1. Visual Studio
@@ -220,5 +236,11 @@ torchaudio-0.10.1+cu111
 >>> torch.cuda.is_available() 
 True
 ```  
+-----
+  
+🎉Complete setting Deep learning environment  
+on a LAB computer which costs more than $15,000🎉
+  
+-----  
 
-*****
+BANDALCOM🐻
