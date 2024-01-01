@@ -558,9 +558,9 @@ NLP 분야의 생성형 AI에 대한 개괄적인 이해.
 
 &nbsp;  
 
-![PPT](../assets/PressPulse.pdf)
+![PPT](PressPulse.pdf)
   
-@[PPT](../assets/PressPulse.pdf)
+@[PPT](PressPulse.pdf)
 
 **단체 사진을 마지막으로**   
 <img src="/posts_img/CJ_Hackathon/PressPulseTeamPicture.jpg" width="60%" height="40%" title="BANDALCOM" alt="PressPulseTeamPicture.jpg">  
