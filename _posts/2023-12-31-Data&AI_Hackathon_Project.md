@@ -501,7 +501,9 @@ Yolo에 대한 개인적인 편견 때문에 재미있는 프로젝트로 보이
 저는 서지 자료 분류 서비스와 SNS 기반 키워드 분석 서비스를 제안했습니다.  
 그래도 아이디어가 예비 주제까지는 올라갔습니다.  
 아쉽게도 탈락했지만 돌이켜보면 저희의 어떤 주제도 심사위원분들의 기준을 충족시키지 못했을 것 같습니다.  
-CV를 융합하지 않고, NLP라는 필드에서 벗어나지 않는 수준에서 데이터를 구할 수 있다는 조건까지 만족하는 주제가 창의성까지 지니도록 구상하는 건 다소 어려웠습니다.  
+CV를 융합하지 않고 NLP라는 필드에서 벗어나지 않는 수준에서,  
+~ 데이터를 구할 수 있다는 조건까지 만족하는 주제가,  
+~ 창의성까지 지니도록 구상하는 건 다소 어려웠습니다.  
 CV에는 자신이 있는 만큼 아이디어를 좀 더 다양하게 해도 된다는 걸 미리 알았다면 더 잘했을텐데 꽤나 아쉬웠습니다.  
 그래도 제가 완전히 처음 접하는 NLP라는 분야에 조금 겁먹긴 했으나 새로운 시도를 했고, 좋은 결과로 마무리 할 수 있어서 뜻 깊은 경험이었습니다.  CV에 대한 주제를 배제한 덕에 NLP에 대한 공부를 집중적으로 할 수 있었다고 생각하기로 했습니다.  
 빠르게 적응해서 프로젝트를 매끄럽게 진행할 수 있어서 다행이었습니다.  
@@ -553,18 +555,30 @@ NLP 분야의 생성형 AI에 대한 개괄적인 이해.
 
 &nbsp;  
 
+**서비스 시연 영상**  
+<img width="80%" src="/posts_img/CJ_Hackathon/PressPulseTest.gif" width="60%" height="40%" title="BANDALCOM" alt="PressPulseTest.gif">
+
+&nbsp;  
+
 **수료증**  
 <img src="/posts_img/CJ_Hackathon/certificate.jpg" width="40%" height="30%" title="BANDALCOM" alt="certificate.jpg">  
 
 &nbsp;  
 
-![PPT](https://bandalcom.github.io/assets/PressPulse.pdf)
-  
-@[PPT](https://bandalcom.github.io/assets/PressPulse.pdf)
+**발표 자료**  
+@[PPT](https://bandalcom.github.io/assets/PressPulse.pdf)  
 
-**단체 사진을 마지막으로**   
+&nbsp;  
+
+**단체 사진을 마지막으로···**   
+
 <img src="/posts_img/CJ_Hackathon/PressPulseTeamPicture.jpg" width="60%" height="40%" title="BANDALCOM" alt="PressPulseTeamPicture.jpg">  
-
+  
+&nbsp;  
+&nbsp;  
+  
+Thank you for reading!
+  
 ---  
 
 BANDALCOM🐻
