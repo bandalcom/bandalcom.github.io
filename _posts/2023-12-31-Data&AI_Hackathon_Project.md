@@ -467,7 +467,7 @@ NLP 분야의 생성형 AI에 대한 개괄적인 이해.
 
 &nbsp;  
 
-**AI Test2Image generator를 사용해 만들어 본 프로젝트의 컨셉**  
+**BING Test2Image AI generator인 "Image Creator"를 사용해 만들어 본 프로젝트의 컨셉**  
 <img src="/posts_img/CJ_Hackathon/shark_press_pulse.jpg" width="40%" height="30%" title="BANDALCOM" alt="shark_press_pulse.jpg">  
 
 &nbsp;  
