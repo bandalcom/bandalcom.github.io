@@ -20,10 +20,10 @@ large - width="60%" height="40%"
 &nbsp;  
 ---  
 # Chapters  
-## [0. Introduction](#Introduction)  
-## [1. Weekly_Task_Review](##Weekly_Task_Review)  
-## [2. Presentation_Review](#Presentation_Review)  
-## [3. Hackathon_Review](#Hackathon_Review)  
+## [0. Introduction](#introduction)  
+## [1. Weekly_Task_Review](#weekly-task-review)  
+## [2. Presentation_Review](#presentation-review)  
+## [3. Hackathon_Review](#hackathon-review)  
   
 &nbsp;  
   
@@ -64,7 +64,7 @@ This article was written about the activities of participating in the 3rd Data &
 &nbsp;  
   
 ---
-## Weekly_Task_Review  
+## Weekly Task Review  
   
 &nbsp;  
   
@@ -269,7 +269,7 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
   
   
   
-## Presentation_Review  
+## Presentation Review  
 ---  
 ### 심사 평가 기준  
 창의성(20)  
@@ -295,7 +295,7 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
   
 개인적으로 다른 조들에 대한 평가를 예상해보겠습니다.  
 중요한 내용은 아니니 
-###### [Self Feedback](##Self_Feedback)
+[Self Feedback](##self-feedback) 
 부분으로 넘어가셔도 무방합니다.  
 &nbsp;  
   
@@ -400,7 +400,7 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
 &nbsp;  
   
 ---
-## Hackathon_Review  
+## Hackathon Review  
   
 &nbsp;  
   
@@ -426,7 +426,7 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
 &nbsp;  
   
 
-## Self_Feedback
+## Self Feedback
 #### 잘한 점  
 이슈 상황 분석 및 해결  
 매끄럽게 진행한 프로젝트  
