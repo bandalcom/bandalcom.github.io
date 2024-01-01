@@ -21,9 +21,9 @@ large - width="60%" height="40%"
 ---  
 # Chapters  
 ## [0. Introduction](#introduction)  
-## [1. Weekly_Task_Review](#weekly-task-review)  
-## [2. Presentation_Review](#presentation-review)  
-## [3. Hackathon_Review](#hackathon-review)  
+## [1. Weekly Task Review](#weekly-task-review)  
+## [2. Presentation Review](#presentation-review)  
+## [3. Hackathon Review](#hackathon-review)  
   
 &nbsp;  
   
@@ -110,8 +110,10 @@ Career classification based on student career counseling
 &nbsp;  
   
 #### Final Topic Selection  
-<img src="/posts_img/CJ_Hackathon/final_top.jpg" width="60%" height="40%" title="BANDALCOM" alt="final_top.jpg">  
-Each of us came up with at least one topic, did an idea briefing at the meeting, and selected three preliminary topics. We conducted further research on three preliminary topics and shared the contents of each topic. As the final topic for Hackathon, our team chose the Click-bait Classification Service, which received four votes in the final vote.  
+<img src="/posts_img/CJ_Hackathon/final_top.jpg" width="40%" height="30%" title="BANDALCOM" alt="final_top.jpg">  
+Each of us came up with at least one topic, did an idea briefing at the meeting, and selected three preliminary topics.  
+We conducted further research on three preliminary topics and shared the contents of each topic.  
+As the final topic for Hackathon, our team chose the Click-bait Classification Service, which received four votes in the final vote.  
 The reason for the drop in document management topics is that there is not much to show compared to the other two topics.  
 The reason why SNS analysis received a small number of votes was that it was questioned whether it would be possible to build a dataset in a limited time.  
 The classification of click-bait was selected because the dataset was ready to use compared to the two topics. It was considered novel idea among these topics.  
@@ -120,45 +122,40 @@ The classification of click-bait was selected because the dataset was ready to u
   
 ---  
 ### 프로젝트 기획  
-  
-&nbsp;  
-  
 #### 조 구성원  
 **조 이름**: 낭만어부  
 **조장**: BANDALCOM  
 **조원**: SR.Lee, HJ.Kang, SH.Jeon, ML.Heo, CM.Lee  
-  
+
 &nbsp;  
-  
+
 #### 프로젝트 개요  
 **프로젝트 명**: 낭만어부의 낚시 기사 여부 및 유형 판별 서비스, 'PressPulse'  
-  
+
 &nbsp;  
-  
+
 **프로젝트 주제**:  
 낚시 기사 여부와 그 기사의 유형을 분류하는 판별 시스템을 정립한다.  
 더 나아가 기사 URL 입력 시 낚시 기사 여부와 그 유형을 판별하는 App 혹은 Web을 구성한다.  
-  
+
 &nbsp;  
-  
+
 **주제 선정 배경**:
 저널리즘학의 대부, 빌 코바치에 따르면 저널리즘은 ‘진실성’이라는 중요한 의무를 지닌다. 하지만 최근 기사들은 조회수를 높이기 위해 자극적이거나 오해의 소지가 있는 기사 제목을 사용하는 경향이 있다. 이런 사회 현상 속에서 독자들은 기사를 비판적인 시각으로 받아들여야 한다는 경각심을 일깨워야 할 필요가 있다.  
 ‘진실성’이 결여된 기사, 즉 낚시성 기사(click-bait)가 가져오는 빈번한 사회 문제로 인해 자연어 처리로 이를 분별하려는 노력은 2018년부터 이루어졌다.  
 (참고 기사: [https://www.joongang.co.kr/article/22600687#home](https://www.joongang.co.kr/article/22600687#home))|
-  
 &nbsp;  
-  
 현재에는 대규모 언어모델을 통해 감정 키워드를 분류할 수 있다는 점에 착안해, 낚시성 기사 판별에 유형 분류 서비스까지 제공하는 새로운 방안을 마련하고자 한다.  
-  
+
 &nbsp;  
-  
+
 **프로젝트 요약**:  
 1. 한국어 기반 대규모 언어모델 학습을 통해 기존 모델과의 성능을 비교한다.  
 2. 낚시성 기사는 총 10개의 유형으로 분류한다.  
 3. ‘LangChain’을 활용해 모델을 배포하며, 구현 가능한 서비스로 확장한다.  
-  
+
 &nbsp;  
-  
+
 **목표 인사이트**:  
 {기술적 측면}  
 • 대규모 언어 학습에 대해 이해하고, 활용 방안을 탐색한다.  
@@ -166,25 +163,25 @@ The classification of click-bait was selected because the dataset was ready to u
 {서비스 측면}  
 • 언론사에 단순히 클릭만을 위한 기사가 쏟아지는 사회 문제와 ‘진실성’ 의무에 대한 경각심을 심어준다.  
 • 독자에게 비판적인 시각으로 기사를 봐야 한다는 경각심을 심어준다.  
-  
+
 &nbsp;  
-  
+
 **차별 요소**:  
 {연구적 측면 – Data-Centric Perspective}  
-현재 인공지능 모델들은 하이엔드라고 생각될 만큼 상향 평준화되어 있다. 이런 상황 속에서 이제는 ‘Model-Centric’ 관점에서 벗어난 ‘Data-Centric’ 관점에서 데이터를 이해해 성능을 개선해야 한다.   
-(참고 강의:  [https://www.youtube.com/watch?v=06-AZXmwHjo](https://www.youtube.com/watch?v=06-AZXmwHjo))<br><br>  
-따라서 이번 프로젝트에서는 모델의 Hyperparameter는 고정하고, 데이터를 다양하게 변경하며 접근해 ‘특정 목적으로 생성된 데이터로 훈련할 경우, 현실의 데이터를 잘 설명할 수 있는가?’를 검증하고자 한다. 모델 설명력보다 데이터의 설명력에 중점을 둬 고민한다는 것이다.<br><br>  
-  
+현재 인공지능 모델들은 하이엔드라고 생각될 만큼 상향 평준화되어 있다. 이런 상황 속에서 이제는 ‘Model-Centric’ 관점에서 벗어난 ‘Data-Centric’ 관점에서 데이터를 이해해 성능을 개선해야 한다.  
+(참고 강의:  [https://www.youtube.com/watch?v=06-AZXmwHjo](https://www.youtube.com/watch?v=06-AZXmwHjo))<br>  
+따라서 이번 프로젝트에서는 모델의 Hyperparameter는 고정하고, 데이터를 다양하게 변경하며 접근해 ‘특정 목적으로 생성된 데이터로 훈련할 경우, 현실의 데이터를 잘 설명할 수 있는가?’를 검증하고자 한다. 모델 설명력보다 데이터의 설명력에 중점을 둬 고민한다는 것이다.<br>  
+
 &nbsp;  
-  
-{서비스 측면 - 기업과 사용자 입장에서}
-• 사용자(독자)
-낚시 기사 여부만을 판별하는 기존 서비스와 달리 낚시 기사의 유형을 분류하는 방향으로 확장해 소비자에게 클릭 선택권을 부여한다. 이에 더해 LangChain과 Gradio를 활용해 유저 친화적인 UI 서비스를 구성하여 사용자들이 쉽게 접근할 수 있도록 한다. 이로써 기사를 보는 비판적인 시각인 ‘미디어리터러시’ 능력을 증진함으로써 거짓된 기사를 스스로 판별할 수 있다.<br><br>  
-• 기업(언론사와 기자)
-언론사는 저널리즘의 ‘진실성’ 의무에 대한 주의를 기울일 수 있다. 그리고 기자는 기사 작성 과정에서 오해의 소지가 될 수 있는 요소가 들어가지 않았는지 확인하며 퇴고할 수 있다.<br><br>  
-  
+
+{서비스 측면 - 기업과 사용자 입장에서}  
+• 사용자(독자)  
+낚시 기사 여부만을 판별하는 기존 서비스와 달리 낚시 기사의 유형을 분류하는 방향으로 확장해 소비자에게 클릭 선택권을 부여한다. 이에 더해 LangChain과 Gradio를 활용해 유저 친화적인 UI 서비스를 구성하여 사용자들이 쉽게 접근할 수 있도록 한다. 이로써 기사를 보는 비판적인 시각인 ‘미디어리터러시’ 능력을 증진함으로써 거짓된 기사를 스스로 판별할 수 있다.<br>  
+• 기업(언론사와 기자)  
+언론사는 저널리즘의 ‘진실성’ 의무에 대한 주의를 기울일 수 있다. 그리고 기자는 기사 작성 과정에서 오해의 소지가 될 수 있는 요소가 들어가지 않았는지 확인하며 퇴고할 수 있다.<br>  
+
 &nbsp;  
-  
+
 #### 활용 데이터 셋  
 낚시성 기사 탐지 데이터  
 [AI-Hub (aihub.or.kr)](https://aihub.or.kr/aihubdata/data/list.do?searchKeyword=%EB%82%9A%EC%8B%9C%EC%84%B1+%EA%B8%B0%EC%82%AC)
@@ -199,6 +196,7 @@ The classification of click-bait was selected because the dataset was ready to u
 | 23.11.04 ~ 23.11.10 | 모델 성능 비교 및 배포     | CM.Lee, SH.Jeon, ML.Heo |
   
 &nbsp;  
+&nbsp;  
   
 ---  
 ## Week 3  
@@ -206,9 +204,9 @@ The classification of click-bait was selected because the dataset was ready to u
 Feature Selection:  
 newTitle(기사 제목), newsContent(기사 본문), useType(용도 유형), processPattern(처리 패턴)  
 Label Decoding: processPattern(Encoded, Categorical) decode into string type  
-  
+
 &nbsp;  
-  
+
 1. ~~sampling 5% from each original data~~
 2. Data Sampling: 1000 samples from each processPattern  
 3. Text data Cleaning  
@@ -250,6 +248,8 @@ Wrong Text Generation Problem solved✅
 ### Model Deploy  
 Gradio : Chatbot UI  
 Langchain : LLM model pipeline  
+<img src="/posts_img/CJ_Hackathon/gradio.jpg" width="40%" height="30%" title="BANDALCOM" alt="gradio.jpg">  
+<img src="/posts_img/CJ_Hackathon/langchain.jpg" width="40%" height="30%" title="BANDALCOM" alt="langchain.jpg">  
   
 &nbsp;  
 &nbsp;  
@@ -275,12 +275,15 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
 창의성(20)  
 - 새로운 가치를 제공하거나 기존 문제를 해결하는가?  
 - 차별화 요소가 있는가?  
+
 완성도(25)  
 - 요구 사항에 맞게 완벽하게 구현되었는가?  
 - 기획의 구체성 및 구현도  
+
 사업성(35)  
 - 목표 시장과 타겟 고객 분석이 타당하고, 충분히 매력적인가?  
 - 프로세스가 논리적이고 구현 가능한가?  
+
 발표력(20)  
 - 발표 능력 및 충실도 (발표 자료, 발표 내용의 개연성, 태도 및 자세)  
 - 질의 응답 시 답변 내용 및 대응도  
@@ -289,13 +292,13 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
   
 심사 위원 측의 많은 질문의 골자는 다음과 같이 정리할 수 있습니다.  
 그래서 이걸 어디다가 쓸건데?  
-  
+
 &nbsp;  
-&nbsp;  
-  
+
+💡  
 개인적으로 다른 조들에 대한 평가를 예상해보겠습니다.  
 중요한 내용은 아니니 
-[Self Feedback](##self-feedback) 
+[Self Feedback](#self-feedback) 
 부분으로 넘어가셔도 무방합니다.  
 &nbsp;  
   
@@ -458,7 +461,24 @@ NLP 분야의 생성형 AI에 대한 개괄적인 이해.
 대외 활동은 잠시 쉬고, 이론 공부와 개인 역량 강화에 몰두    
   
 &nbsp;  
+&nbsp;  
   
-마지막으로 단체 사진  
+---  
+
+AI Test2Image generator를 사용해 만들어 본 프로젝트의 컨셉  
+<img src="/posts_img/CJ_Hackathon/shark_press_pulse.jpg" width="60%" height="40%" title="BANDALCOM" alt="shark_press_pulse.jpg">  
+
+&nbsp;  
+
+수료증  
+<img src="/posts_img/CJ_Hackathon/certificate.jpg" width="60%" height="40%" title="BANDALCOM" alt="certificate.jpg">  
+
+&nbsp;  
+
+단체 사진을 마지막으로   
 <img src="/posts_img/CJ_Hackathon/PressPulseTeamPicture.jpg" width="60%" height="40%" title="BANDALCOM" alt="PressPulseTeamPicture.jpg">  
+
+---  
+
+BANDALCOM🐻
  	
