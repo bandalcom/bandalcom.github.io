@@ -465,20 +465,22 @@ NLP 분야의 생성형 AI에 대한 개괄적인 이해.
   
 ---  
 
-AI Test2Image generator를 사용해 만들어 본 프로젝트의 컨셉  
-<img src="/posts_img/CJ_Hackathon/shark_press_pulse.jpg" width="60%" height="40%" title="BANDALCOM" alt="shark_press_pulse.jpg">  
+&nbsp;  
+
+**AI Test2Image generator를 사용해 만들어 본 프로젝트의 컨셉**  
+<img src="/posts_img/CJ_Hackathon/shark_press_pulse.jpg" width="40%" height="30%" title="BANDALCOM" alt="shark_press_pulse.jpg">  
 
 &nbsp;  
 
-수료증  
-<img src="/posts_img/CJ_Hackathon/certificate.jpg" width="60%" height="40%" title="BANDALCOM" alt="certificate.jpg">  
+**수료증**  
+<img src="/posts_img/CJ_Hackathon/certificate.jpg" width="40%" height="30%" title="BANDALCOM" alt="certificate.jpg">  
 
 &nbsp;  
 
-단체 사진을 마지막으로   
+**단체 사진을 마지막으로**   
 <img src="/posts_img/CJ_Hackathon/PressPulseTeamPicture.jpg" width="60%" height="40%" title="BANDALCOM" alt="PressPulseTeamPicture.jpg">  
 
 ---  
 
 BANDALCOM🐻
- 	
+
