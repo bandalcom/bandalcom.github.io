@@ -192,6 +192,7 @@ The classification of click-bait was selected because the dataset was ready to u
 &nbsp;  
   
 #### 진행 계획  
+  
 | 일정                | 내용                       | 역할                   |
 | ------------------- | -------------------------- | ---------------------- |
 | 23.10.25 ~ 23.11.03 | 데이터 전처리 및 모델 학습 | DC.Ban, SR.Lee, HJ.Kang |
@@ -253,6 +254,8 @@ Langchain : LLM model pipeline
 &nbsp;  
 &nbsp;  
   
+---  
+  
 ## Week 4  
 ### Presentation 
 Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Korea (CJ OLIVENETWORKS OFFICE)  
@@ -281,7 +284,9 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
 발표력(20)  
 - 발표 능력 및 충실도 (발표 자료, 발표 내용의 개연성, 태도 및 자세)  
 - 질의 응답 시 답변 내용 및 대응도  
+  
 ---  
+  
 심사 위원 측의 많은 질문의 골자는 다음과 같이 정리할 수 있습니다.  
 그래서 이걸 어디다가 쓸건데?  
   
@@ -289,7 +294,9 @@ Location : Twin City 10F, 366, Hangang-daero, Yongsan-gu, Seoul, Republic of Kor
 &nbsp;  
   
 개인적으로 다른 조들에 대한 평가를 예상해보겠습니다.  
-중요한 내용은 아니니 [Self Feedback](##Self_Feedback)부분으로 넘어가셔도 무방합니다.  
+중요한 내용은 아니니 
+###### [Self Feedback](##Self_Feedback)
+부분으로 넘어가셔도 무방합니다.  
 &nbsp;  
   
 ---  
