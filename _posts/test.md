@@ -8,4 +8,4 @@ categories: AI CV Clustering OCR
 
 
 
-{% include NoteCrawlingFlowchart.drawio.html %}
+{% include NoteCrawlingFlowchart.html %}
