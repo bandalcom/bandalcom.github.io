@@ -23,7 +23,8 @@ What : A-Z about AI study
 Difficulty : 🔥🔥🔥🔥🔥  
 관련 링크 첨부  
 [https://newtradecampus.kita.net/page/user_job_AI_details](https://newtradecampus.kita.net/page/user_job_AI_details)  
-  
+[https://www.youtube.com/watch?v=e_7KcXoqalY&t=698s](https://www.youtube.com/watch?v=e_7KcXoqalY&t=698s)
+
 ---  
 
 2023년 6월 18일 신청하여 대면 면접 진행 후,  
@@ -154,7 +155,7 @@ image detection을 통해 handwritten text image에서
 순서를 알지 못하게 단어만 확인이 되어  
 원래 글의 의미를 잃어버리는 문제가 있었습니다.  
 다만 추출 시에 단어의 좌표값을 포함시킬 수 있었기에  
-각 단어의 이에 x,y좌표값과 w,h 정보를 포함하여  
+각 단어의 이름에 x,y좌표값과 w,h 정보를 포함하여  
 단어 이미지 파일을 생성합니다.  
   
 각 단어 이미지들의 raw img data에서 위치 관계를 알기 위해,  
@@ -172,6 +173,7 @@ crop image 생성 전에 좌표 데이터 후 처리하여
   
 yolo model을 통해 crop된 이미지들은  
 파일 이름에 crop되기 전 raw image에서의 좌표 정보를 포함합니다.  
+Example>  
 x89y147w199h184.jpg  
 x10y148w157h184.jpg  
 x28y149w108h180.jpg  
@@ -184,13 +186,16 @@ raw image파일에서 같은 line에 있던 word들은
 이렇게 동일 클러스터에 속하는 y값들의 평균을 구하여  
 word의 새로운 y값으로 label.  
 단어 이미지 파일 rename할 때, y값이 먼저 오게 합니다.  
+Example>  
 yyyy_xxxx.jpg  
   
 y값에 대한 정렬이 되고  
 x값에 대해 오름차순으로 정렬됩니다.  
+Example>  
 0148_0010.jpg  
 0148_0028.jpg  
 0148_0089.jpg  
+  
 word file의 순서가 자동적으로 원래 text의 의미를 가지게 됩니다.  
 <img src="/posts_img/Postech&KITA_AI_program/DBSCANchange.jpg" width="40%" height="30%" title="BANDALCOM" alt="DBSCANchange.jpg">  
 &nbsp;  
@@ -205,7 +210,7 @@ raw image data의 각 단어에 대한 텍스트 라벨링이 있었습니다.
 단어 이미지들을 추출하고 해당 텍스트 라벨과 매칭시킵니다.  
 word image에 대한 word text로 이루어진 새로운 dataset을 구축했습니다.  
 해당 dataset을 IAM.m2이라고 해두겠습니다.  
-IAM.m2 dataset 115,320 words  
+- IAM.m2 dataset - 115,320 words  
 &nbsp;  
 
 그리고 서비스 기획에 따라 두 가지 모델을 훈련해야 하기 때문에  
@@ -321,3 +326,10 @@ src="https://gradio.s3-us-west-2.amazonaws.com/4.13.0/gradio.js">
 <gradio-app src="https://nebulae000-notecrawling.hf.space"></gradio-app>  
   
 [huggingface NoteCrawling](https://huggingface.co/spaces/Nebulae000/NoteCrawling)
+
+
+Thank you for reading!
+
+---
+
+BANDALCOM🐻
