@@ -1,5 +1,5 @@
 ---
-layout: post_embed
+layout: post
 title:  "Postech KITA AI competition"
 date:   2024-01-10 15:47:01 +0900
 categories: AI CV CLUSTERING OCR
@@ -15,6 +15,10 @@ categories: AI CV CLUSTERING OCR
   
 &nbsp;  
 
-
+<script
+type="module"
+src="https://gradio.s3-us-west-2.amazonaws.com/4.13.0/gradio.js">
+</script>
+<gradio-app src="https://nebulae000-notecrawling.hf.space"></gradio-app>
 
 {% include NoteCrawlingFlowchart.html %}
