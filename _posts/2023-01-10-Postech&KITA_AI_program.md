@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post_embed
 title:  "Postech KITA AI competition"
-date:   2023-01-10 15:47:01 +0900
-categories: AI CV Clustering OCR
+date:   2024-01-10 15:47:01 +0900
+categories: AI CV CLUSTERING OCR
 ---
 
 
@@ -14,5 +14,7 @@ categories: AI CV Clustering OCR
 학부 과정에서 넓은 분야를 경험하고자 다양한 지식을 탐구합니다.
   
 &nbsp;  
+
+
 
 {% include NoteCrawlingFlowchart.html %}
