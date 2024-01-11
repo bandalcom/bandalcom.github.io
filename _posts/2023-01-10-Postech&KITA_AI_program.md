@@ -103,7 +103,7 @@ TTS 파트에서는 이슈 발생 시 코드 수정을 도왔습니다.
 &nbsp;  
   
 프로세스는 다음과 같이 디자인했습니다.  
-{% include ProcessFlowchart.html %}  
+<img src="/posts_img/Postech&KITA_AI_program/Process.jpg" width="90%" height="60%" title="BANDALCOM" alt="Process.jpg">  
   
 &nbsp;  
   
@@ -312,7 +312,8 @@ Lecture AI에서 TTS 파트를 제외하고
 OCR 파트 프로세스를 app으로 배포해봤습니다.  
   
 Huggingface GRADIO space에 올라간 Note Crawling AI app의 Flowchart  
-{% include NoteCrawlingFlowchart.html %}  
+<img src="/posts_img/Postech&KITA_AI_program/NoteCrawling.jpg" width="90%" height="60%" title="BANDALCOM" alt="NoteCrawling.jpg">  
+
 &nbsp;  
 &nbsp;  
 한번 사용해보세요.  
