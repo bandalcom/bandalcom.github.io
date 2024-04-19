@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gen AI Ideathon"
-date:   2024-04-21 00:00:00 +0900
+date:   2024-04-21 00:00:01 +0900
 categories: WRTN
 ---
 
