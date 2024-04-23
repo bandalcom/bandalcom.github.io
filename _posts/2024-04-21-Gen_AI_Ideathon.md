@@ -59,7 +59,11 @@ large - width="60%" height="40%"
 참신한 아이디어를 구상하여 강원대학교 대표 팀으로 출전해보시기 바랍니다.  
 
 많은 관심과 참여 바랍니다.  
-  
+
+관련 문의는 연락주세요.
+&nbsp; &nbsp; E-mail: dalcomban@gmail.com
+&nbsp; &nbsp; Instagram: @bandalcom
+&nbsp; &nbsp; Discord: @bandalcom
 .  
 .  
 .  
@@ -134,7 +138,7 @@ large - width="60%" height="40%"
 &nbsp;  
 ### \[LINKS\]
 ♠ **[지원서 파일 다운로드](https://drive.google.com/file/d/1linY-z4Sdt7PpnNS10HvDrcIRrEwshgb/view?usp=sharing)** ♠  
-♣ [뤼튼 사용하러가기](https://wrtn.ai/) ♣  
+♣ [디스코드 공지 채널](https://discord.gg/6y6Dqbg4) ♣  
 ♥ [뤼튼 공식 홈페이지](https://wrtn.io/) ♥  
 ♦ [운영사무국 노션 랜딩 페이지](https://dalcomban.notion.site/Wrtn-at-KNU-bdfaa57e70744417a6bb772b53de9683) ♦  
   
