@@ -18,7 +18,7 @@ large - width="60%" height="40%"
   
 
 
-
+<img src="/posts_img/Gen_AI_Ideathon/[WrtnCampusLeader]_Ideathon_poster_(7resource).jpg" width="40%" height="30%" title="BANDALCOM" alt="poster.jpg"> 
 ---
 ### \[\[요약\]\]
 **내용**  
