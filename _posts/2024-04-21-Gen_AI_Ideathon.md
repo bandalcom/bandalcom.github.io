@@ -106,7 +106,7 @@ dalcomaban@gmail.com
 .  
 .  
 .  
-  
+[지원서 파일 다운로드](https://drive.google.com/file/d/1linY-z4Sdt7PpnNS10HvDrcIRrEwshgb/view?usp=sharing)
 [뤼튼 사용하러가기](https://wrtn.ai/)  
 [뤼튼 공식 홈페이지](https://wrtn.io/)  
 [운영사무국 노션 랜딩 페이지](https://dalcomban.notion.site/Wrtn-at-KNU-bdfaa57e70744417a6bb772b53de9683)  
